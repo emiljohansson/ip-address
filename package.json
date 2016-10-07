@@ -1,0 +1,16 @@
+{
+  "name": "ip-address",
+  "version": "0.0.0",
+  "description": "Prints and copies the en5 address to the clipboard.",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ip",
+    "address",
+    "en5"
+  ],
+  "author": "Emil Johansson <emijohansson.se@gmail.com>",
+  "license": "MIT"
+}
