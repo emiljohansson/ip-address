@@ -1,6 +1,6 @@
 {
   "name": "ip-address",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Prints and copies the en5 address to the clipboard.",
   "main": "cli.js",
   "scripts": {
