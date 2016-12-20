@@ -1,8 +1,11 @@
 {
   "name": "ip-address",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Prints and copies the en5 address to the clipboard.",
   "main": "cli.js",
+  "bin": {
+    "ip-address": "cli.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

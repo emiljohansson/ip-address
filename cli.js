@@ -1,4 +1,4 @@
-'use strict'
+#! /usr/bin/env node
 
 const ifaces = require('os').networkInterfaces()
 const copyToClipboard = require('../copy-to-clipboard')
